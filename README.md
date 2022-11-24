@@ -1,5 +1,5 @@
 # CryptoWallet
-We Can Send CryptoCurrency  to any wallet by using MetaMask. 
+Its a Website we can send CryptoCurrency  to any wallet by using MetaMask. 
  ### Solidity
  ### ReactJs
  ### MetaMask
