@@ -1,6 +1,5 @@
 # CryptoWallet
- It is a Wallet we can send the ethereum to any other ethererum account through MetaWallet.
- 
+We Can Send CryptoCurrency  to any wallet by using MetaMask. 
  ### Solidity
  ### ReactJs
  ### MetaMask
